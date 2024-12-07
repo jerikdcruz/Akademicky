@@ -1,31 +1,21 @@
-url: https://www.emfink.net # change to your site's url 
-baseurl: /Akademicky # change to your repository 
-title: Akademický # Change to your site's title
-description: # leave blank if you don't want to display a description
+url: https://jerikcruz.github.io # change to your site's url 
+baseurl:   # change to your repository 
+title: Jerik Cruz # Change to your site's title
+description: Researching the causes and consequences of the global rise of knowledge capitalism # leave blank if you don't want to display a description
 
-last_updated: 17 July 2024 # leave blank if you don't want to display last updated
+last_updated: # leave blank if you don't want to display last updated
 
 
 # Change to your name and contact information
 author:
-  name: Saul Goodman
-  positition: Professor of Law
-  affiliation: University of American Samoa School of Law
-  address: Pago Plaza
-  city-state-zip: 'Pago Pago, American Samoa 96799'
-  email: sgoodman@uasslaw.edu
-  phone: 684-555-1234
-  web: sgoodman.net
-  github: ProfessorSaulGoodman
-
-# For a course website, enter the relevant information for your course. You can delete this block if you are not making a course website. 
-course:
-  subject: Trials & Tribulations
-  term: Winter 2024
-  room: Room 207
-  meets: 'Monday & Wednesday 10:00–11:30 am'
-  repository: /Trials&Tribulations
-
+  name: Jerik Cruz
+  positition: PhD Candidate
+  affiliation: Massachusetts Institute of Technology
+  address: Cambridge, MA / Quezon City, PHL
+  city-state-zip: '02142 USA / 1108 Philippines'
+  email: jpdcruz@mit.edu 
+  github: jerikdcruz
+  linkedin: www.linkedin.com/in/jerikdcruz
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
